@@ -1,0 +1,8 @@
+.cache
+.classpath
+.project
+
+.metals
+.vscode
+
+target
